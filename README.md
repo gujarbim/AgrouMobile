@@ -43,6 +43,6 @@
 ##### **Soluções de Locação:** A plataforma abraçou o crescente mercado de aluguel de maquinário pesado, não limitando-se apenas à venda.
 #### O que é frustrante?
 ##### **Falta de Diversificação:** Produtores rurais preferem resolver vários problemas num lugar só. Se ele está procurando comprar um trator na PopAgro, mas também precisa vender bezerros ou comprar sementes, ele será forçado a ir para outro portal (como MF Rural).
-##### ***Tráfego Menor:** Por ser altamente nichado, o volume de tráfego orgânico geral é menor se comparado aos gigantes do setor.
+##### **Tráfego Menor:** Por ser altamente nichado, o volume de tráfego orgânico geral é menor se comparado aos gigantes do setor.
 #### Uma ideia de melhoria.
 ##### Partindo do modelo de sucesso deles em maquinários pesados e integração de lojistas, expandir com a mesma facilidade tecnológica e gestão de leads para os setores de animais, terras e insumos. Transformar a gestão de nicho em uma solução global para a fazenda inteira.
