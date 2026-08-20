@@ -1,8 +1,8 @@
 # Persona
 
-*Contexto:* Um produtor rural e pecuarista no Brasil. Ele administra uma fazenda mista e frequentemente precisa renovar seu maquinário agrícola, comprar insumos ou vender lotes de gado e matrizes.
-*Objetivo:* Encontrar bons negócios (tanto para compra quanto para venda) de forma rápida, alcançando parceiros de outras regiões para conseguir preços mais justos, sem depender exclusivamente dos atravessadores e intermediários locais.
-*Dores:* Perde muito tempo tentando negociar em grupos de WhatsApp desorganizados, tem receio de sofrer golpes em plataformas de classificados generalistas (como Facebook Marketplace ou OLX) e sente falta de informações técnicas detalhadas nos anúncios (como horas de motor de um trator ou registro de um animal).
+### *Contexto:* Um produtor rural e pecuarista no Brasil. Ele administra uma fazenda mista e frequentemente precisa renovar seu maquinário agrícola, comprar insumos ou vender lotes de gado e matrizes.
+### *Objetivo:* Encontrar bons negócios (tanto para compra quanto para venda) de forma rápida, alcançando parceiros de outras regiões para conseguir preços mais justos, sem depender exclusivamente dos atravessadores e intermediários locais.
+### *Dores:* Perde muito tempo tentando negociar em grupos de WhatsApp desorganizados, tem receio de sofrer golpes em plataformas de classificados generalistas (como Facebook Marketplace ou OLX) e sente falta de informações técnicas detalhadas nos anúncios (como horas de motor de um trator ou registro de um animal).
 
 # Problem statement
 
